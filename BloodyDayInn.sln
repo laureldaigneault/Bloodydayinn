@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloodydayinn.Plugins", "Bloodydayinn.Plugins.csproj", "{6E97405F-F822-AA9A-173D-40BC37B2D138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloodydayinn", "Bloodydayinn.csproj", "{32AD5220-FAAE-6F3F-44A5-66F914421CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bloodydayinn.Editor.Plugins", "Bloodydayinn.Editor.Plugins.csproj", "{5399A14E-4604-5FB3-1302-3B49395FD86E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E97405F-F822-AA9A-173D-40BC37B2D138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E97405F-F822-AA9A-173D-40BC37B2D138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E97405F-F822-AA9A-173D-40BC37B2D138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E97405F-F822-AA9A-173D-40BC37B2D138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32AD5220-FAAE-6F3F-44A5-66F914421CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AD5220-FAAE-6F3F-44A5-66F914421CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AD5220-FAAE-6F3F-44A5-66F914421CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AD5220-FAAE-6F3F-44A5-66F914421CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5399A14E-4604-5FB3-1302-3B49395FD86E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5399A14E-4604-5FB3-1302-3B49395FD86E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5399A14E-4604-5FB3-1302-3B49395FD86E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5399A14E-4604-5FB3-1302-3B49395FD86E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
